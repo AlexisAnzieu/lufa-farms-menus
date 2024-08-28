@@ -1,0 +1,424 @@
+[
+  {
+    "title": "Tartare de Saumon Mariné au Miel et à l’Aneth",
+    "description": "Un tartare frais de saumon dressé avec une vinaigrette au miel et à l'aneth, servi sur un lit de micropousses.",
+    "ingredients": [
+      {
+        "name": "Saumon frais",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Miel d'été biologique",
+        "quantity": 1,
+        "unit": "c.s.",
+        "id": "169"
+      },
+      {
+        "name": "Aneth",
+        "quantity": 1,
+        "unit": "c.s.",
+        "id": "50"
+      },
+      {
+        "name": "Jus de citron",
+        "quantity": 1,
+        "unit": "c.s."
+      },
+      {
+        "name": "Sel de mer",
+        "quantity": 1,
+        "unit": "pincée",
+        "id": "18315"
+      },
+      {
+        "name": "Micropousses de roquette",
+        "quantity": 50,
+        "unit": "g",
+        "id": "301"
+      },
+      {
+        "name": "Olives vertes dénoyautées",
+        "quantity": 50,
+        "unit": "g",
+        "id": "1287"
+      },
+      {
+        "name": "Échalotes françaises",
+        "quantity": 1,
+        "unit": "unité",
+        "id": "854"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Dans un bol, couper le saumon en petits dés. Ajouter le miel, l'aneth et le jus de citron. Mélanger délicatement.",
+        "cooking_time": ""
+      },
+      {
+        "step": 2,
+        "description": "Hacher finement les échalotes et ajouter au mélange de saumon.",
+        "cooking_time": ""
+      },
+      {
+        "step": 3,
+        "description": "Mélanger les micropousses de roquette avec les olives hachées et dresser au centre d'une assiette.",
+        "cooking_time": ""
+      },
+      {
+        "step": 4,
+        "description": "Déposer le tartare de saumon sur le lit de micropousses et assaisonner avec une pincée de sel.",
+        "cooking_time": ""
+      },
+      {
+        "step": 5,
+        "description": "Servir immédiatement avec des tranches de pain ou des croustilles.",
+        "cooking_time": ""
+      }
+    ],
+    "cooking_time": "10 minutes",
+    "preparation_time": "15 minutes",
+    "serving_size": 2,
+    "difficulty": "Facile",
+    "cuisine": "Moderne",
+    "tags": ["entrée", "sans cuisson", "saumon", "frais"],
+    "notes": "Peut être accompagné d'un verre de vin blanc."
+  },
+  {
+    "title": "Pâtes Fraîches aux Épinards et Crème de Ricotta",
+    "description": "Pâtes fraîches enrobées d'une sauce crémeuse à base de ricotta et de légumes, agrémentées d'herbes aromatiques.",
+    "ingredients": [
+      {
+        "name": "Linguines frais",
+        "quantity": 200,
+        "unit": "g",
+        "id": "1743"
+      },
+      {
+        "name": "Ricotta",
+        "quantity": 150,
+        "unit": "g",
+        "id": "3209"
+      },
+      {
+        "name": "Crème St-Père 35 %",
+        "quantity": 50,
+        "unit": "ml",
+        "id": "2358"
+      },
+      {
+        "name": "Brocoli",
+        "quantity": 100,
+        "unit": "g",
+        "id": "1567"
+      },
+      {
+        "name": "Chou-fleur (mini)",
+        "quantity": 100,
+        "unit": "g",
+        "id": "1670"
+      },
+      {
+        "name": "Thym en pot",
+        "quantity": 1,
+        "unit": "c.c.",
+        "id": "48"
+      },
+      {
+        "name": "Origan en pot",
+        "quantity": 1,
+        "unit": "c.c.",
+        "id": "43"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 2,
+        "unit": "c.s.",
+        "id": "8811"
+      },
+      {
+        "name": "Sel de mer",
+        "quantity": 1,
+        "unit": "pincée",
+        "id": "18315"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Cuire les linguines dans une grande casserole d'eau salée jusqu'à ce qu'elles soient al dente, environ 8-10 minutes.",
+        "cooking_time": "10 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Dans une poêle, chauffer l'huile d'olive et ajouter le brocoli et le chou-fleur, cuire pendant 5 minutes jusqu'à tendreté.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Ajouter la ricotta, la crème St-Père, le thym et l'origan, puis mélanger jusqu'à obtenir une sauce crémeuse.",
+        "cooking_time": "3 minutes"
+      },
+      {
+        "step": 4,
+        "description": "Égoutter les pâtes et les ajouter à la sauce, mélanger délicatement pour enrober les pâtes.",
+        "cooking_time": ""
+      },
+      {
+        "step": 5,
+        "description": "Servir chaud, éventuellement garni de parmesan frais.",
+        "cooking_time": ""
+      }
+    ],
+    "cooking_time": "18 minutes",
+    "preparation_time": "10 minutes",
+    "serving_size": 2,
+    "difficulty": "Moyenne",
+    "cuisine": "Italienne",
+    "tags": ["plat principal", "pasta", "végétarien"],
+    "notes": "Un peu de zeste de citron peut rehausser le goût."
+  },
+  {
+    "title": "Gnocchis de Patate Douce au Miel et Bacon Fumé",
+    "description": "Des gnocchis moelleux garnis de miel et de bacon fumé, accompagnés d'une touche d'origan et de thym.",
+    "ingredients": [
+      {
+        "name": "Gnocchis (congelés)",
+        "quantity": 600,
+        "unit": "g",
+        "id": "3052"
+      },
+      {
+        "name": "Bacon fumé (tranché)",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Miel d'été biologique",
+        "quantity": 2,
+        "unit": "c.s.",
+        "id": "169"
+      },
+      {
+        "name": "Origan en pot",
+        "quantity": 1,
+        "unit": "c.c.",
+        "id": "43"
+      },
+      {
+        "name": "Thym en pot",
+        "quantity": 1,
+        "unit": "c.c.",
+        "id": "48"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 2,
+        "unit": "c.s.",
+        "id": "8811"
+      },
+      {
+        "name": "Sel de mer",
+        "quantity": 1,
+        "unit": "pincée",
+        "id": "18315"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Faire cuire les gnocchis selon les instructions sur l'emballage. Réserver.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Dans une poêle, faire frémir l'huile d'olive et y faire revenir le bacon jusqu'à ce qu'il soit croustillant, environ 4-5 minutes.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Ajouter les gnocchis cuits dans la poêle et mélanger délicatement avec le bacon.",
+        "cooking_time": ""
+      },
+      {
+        "step": 4,
+        "description": "Incorporer le miel, l'origan, le thym et le sel, puis cuire encore 2 minutes pour bien enrober les gnocchis.",
+        "cooking_time": ""
+      },
+      {
+        "step": 5,
+        "description": "Servir chaud, garni de quelques feuilles de basilic frais.",
+        "cooking_time": ""
+      }
+    ],
+    "cooking_time": "15 minutes",
+    "preparation_time": "5 minutes",
+    "serving_size": 3,
+    "difficulty": "Facile",
+    "cuisine": "Fusion",
+    "tags": ["plat de pâtes", "sauté", "végétarien"],
+    "notes": "Peut être agrémenté de parmesan pour plus de saveur."
+  },
+  {
+    "title": "Salade de Chou Frisé et Olives Vertes avec Vinaigrette au Miel",
+    "description": "Une salade croquante de chou frisé et d'olives vertes, assaisonnée d'une vinaigrette légère au miel et vinaigre de vin rouge.",
+    "ingredients": [
+      {
+        "name": "Chou frisé (kale)",
+        "quantity": 150,
+        "unit": "g",
+        "id": "3040"
+      },
+      {
+        "name": "Olives vertes à l'ail dénoyautées",
+        "quantity": 100,
+        "unit": "g",
+        "id": "2771"
+      },
+      {
+        "name": "Échalotes françaises",
+        "quantity": 1,
+        "unit": "unité",
+        "id": "854"
+      },
+      {
+        "name": "Vinaigre de vin rouge",
+        "quantity": 2,
+        "unit": "c.s.",
+        "id": "1299"
+      },
+      {
+        "name": "Miel d'été biologique",
+        "quantity": 1,
+        "unit": "c.s.",
+        "id": "169"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 2,
+        "unit": "c.s.",
+        "id": "8811"
+      },
+      {
+        "name": "Sel de mer",
+        "quantity": 1,
+        "unit": "pincée",
+        "id": "18315"
+      },
+      {
+        "name": "Micropousses de radis",
+        "quantity": 50,
+        "unit": "g",
+        "id": "4413"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Dans un grand bol, déchirer le chou frisé en morceaux et y ajouter les échalotes tranchées et les olives.",
+        "cooking_time": ""
+      },
+      {
+        "step": 2,
+        "description": "Dans un petit bol, mélanger le vinaigre, le miel et l'huile d'olive, puis assaisonner avec le sel.",
+        "cooking_time": ""
+      },
+      {
+        "step": 3,
+        "description": "Verser la vinaigrette sur la salade et masser le chou frisé pendant 2-3 minutes pour bien l'enrober.",
+        "cooking_time": ""
+      },
+      {
+        "step": 4,
+        "description": "Garnir de micropousses de radis et servir immédiatement.",
+        "cooking_time": ""
+      }
+    ],
+    "cooking_time": "10 minutes",
+    "preparation_time": "10 minutes",
+    "serving_size": 2,
+    "difficulty": "Facile",
+    "cuisine": "Méditerranéenne",
+    "tags": ["salade", "végétarien", "antioxidant"],
+    "notes": "Cette salade se conserve bien au réfrigérateur, idéale pour les déjeuners."
+  },
+  {
+    "title": "Panna Cotta au Chocolat Noir et Miel d'Érable",
+    "description": "Un dessert crémeux à la panna cotta infusé de chocolat noir et de miel d'érable, servi avec des éclats de chocolat.",
+    "ingredients": [
+      {
+        "name": "Crème St-Père 35 %",
+        "quantity": 250,
+        "unit": "ml",
+        "id": "2358"
+      },
+      {
+        "name": "Lait 3,25 %",
+        "quantity": 100,
+        "unit": "ml",
+        "id": "2349"
+      },
+      {
+        "name": "Chocolat noir 72 % biologique",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Miel d'été brut biologique",
+        "quantity": 2,
+        "unit": "c.s.",
+        "id": "3424"
+      },
+      {
+        "name": "Gélatine en feuilles",
+        "quantity": 3,
+        "unit": "unités"
+      },
+      {
+        "name": "Eau froide",
+        "quantity": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "Éclats de chocolat noir 60 %",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Faire ramollir la gélatine dans de l'eau froide.",
+        "cooking_time": ""
+      },
+      {
+        "step": 2,
+        "description": "Dans une casserole, chauffer la crème et le lait à feu doux, ajouter le chocolat et mélanger jusqu'à ce que le chocolat soit complètement fondu.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Ajouter le miel dans le mélange et bien mélanger, puis incorporer la gélatine pressée pour la dissoudre.",
+        "cooking_time": ""
+      },
+      {
+        "step": 4,
+        "description": "Verser le mélange dans des moules individuels et réfrigérer pendant au moins 4 heures, jusqu'à ce que la panna cotta soit prise.",
+        "cooking_time": "240 minutes"
+      },
+      {
+        "step": 5,
+        "description": "Démouler délicatement et garnir d'éclats de chocolat noir avant de servir.",
+        "cooking_time": ""
+      }
+    ],
+    "cooking_time": "4 heures 5 minutes",
+    "preparation_time": "15 minutes",
+    "serving_size": 4,
+    "difficulty": "Moyenne",
+    "cuisine": "Italienne",
+    "tags": ["dessert", "chocolat", "gourmand"],
+    "notes": "Peut être accompagné d'un coulis de fruits rouges."
+  }
+]

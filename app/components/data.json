@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Bagel Gourmet au Végé-Pâté et Micropousses",
+    "description": "Un bagel moelleux, garni de vége-pâté traditionnel et agrémenté de micropousses croquantes, le tout rehaussé d'un mélange herbacé d'origan et de thym, parfait pour un brunch raffiné.",
+    "ingredients": [
+      {
+        "name": "Bagel tout garnis",
+        "quantity": 1,
+        "unit": "unité"
+      },
+      {
+        "name": "Végé-pâté traditionnel biologique",
+        "quantity": 50,
+        "unit": "g",
+        "id": "2012"
+      },
+      {
+        "name": "Micropousses de roquette",
+        "quantity": 15,
+        "unit": "g",
+        "id": "301"
+      },
+      {
+        "name": "Origan en pot",
+        "quantity": 1,
+        "unit": "cuil. à café",
+        "id": "43"
+      },
+      {
+        "name": "Thym en pot",
+        "quantity": 1,
+        "unit": "cuil. à café",
+        "id": "48"
+      },
+      {
+        "name": "Moutarde de Dijon et miel",
+        "quantity": 15,
+        "unit": "g",
+        "id": "447"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Faites griller le bagel tout garnis jusqu'à ce qu'il soit doré et croustillant.",
+        "cooking_time": "3 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Tartinez chaque moitié de bagel avec le vége-pâté traditionnel.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Ajoutez une couche généreuse de micropousses de roquette sur le vége-pâté.",
+        "cooking_time": "1 minute"
+      },
+      {
+        "step": 4,
+        "description": "Saupoudrez le mélange d'origan et de thym sur les micropousses.",
+        "cooking_time": "1 minute"
+      },
+      {
+        "step": 5,
+        "description": "Enfin, ajoutez une cuillère de moutarde de Dijon et miel sur le tout, puis refermez le bagel.",
+        "cooking_time": "1 minute"
+      }
+    ],
+    "cooking_time": "8 minutes",
+    "preparation_time": "5 minutes",
+    "serving_size": 1,
+    "difficulty": "Facile",
+    "cuisine": "Contemporaine",
+    "tags": ["végétalien", "rapide", "brunch", "recette facile"],
+    "notes": "Accompagnez d'une boisson à base d'amandes ou d'une infusion pour un repas équilibré."
+  },
+  {
+    "title": "Pâtes fraîches aux épinards et légumes croquants",
+    "description": "Des pâtes fraîches aux épinards, accompagnées d'une méli-mélo de légumes croquants marinés à l'aneth, parfait pour un repas léger et savoureux.",
+    "ingredients": [
+      {
+        "name": "Tagliatelles fraîches aux épinards",
+        "quantity": 200,
+        "unit": "g",
+        "id": "1431"
+      },
+      {
+        "name": "Carottes nantaises (petites)",
+        "quantity": 100,
+        "unit": "g",
+        "id": "3806"
+      },
+      {
+        "name": "Céleri (moyen)",
+        "quantity": 50,
+        "unit": "g",
+        "id": "5520"
+      },
+      {
+        "name": "Ciboulette",
+        "quantity": 5,
+        "unit": "g",
+        "id": "17942"
+      },
+      {
+        "name": "Aneth en pot",
+        "quantity": 1,
+        "unit": "cuil. à soupe",
+        "id": "50"
+      },
+      {
+        "name": "Vinaigre de vin rouge",
+        "quantity": 30,
+        "unit": "ml",
+        "id": "1299"
+      },
+      {
+        "name": "Huile d'olive extravierge biologique",
+        "quantity": 15,
+        "unit": "ml",
+        "id": "8811"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Faites cuire les tagliatelles selon les instructions du paquet.",
+        "cooking_time": "3 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Pendant ce temps, coupez les carottes et le céleri en fines lamelles et placez-les dans un bol.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Ajoutez le vinaigre de vin rouge, l'huile d'olive et l'aneth aux légumes, puis mélangez bien.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 4,
+        "description": "Une fois les pâtes cuites, égouttez-les et incorporez-les aux légumes marinés.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 5,
+        "description": "Servez chaud, décoré de ciboulette ciselée.",
+        "cooking_time": "1 minute"
+      }
+    ],
+    "cooking_time": "8 minutes",
+    "preparation_time": "10 minutes",
+    "serving_size": 2,
+    "difficulty": "Facile",
+    "cuisine": "Italienne",
+    "tags": ["pâtes", "végétalien", "rapide", "sain"],
+    "notes": "Vous pouvez ajouter du parmesan pour un goût encore plus riche."
+  },
+  {
+    "title": "Gnocchis au Chou-Fleur Rôti et Crème à L'Aneth",
+    "description": "Des gnocchis moelleux accompagnés de chou-fleur rôti, le tout nappé d’une crème délicate à l’aneth et lait de coco pour une touche gourmande.",
+    "ingredients": [
+      {
+        "name": "Gnocchis (congelés)",
+        "quantity": 400,
+        "unit": "g",
+        "id": "3052"
+      },
+      {
+        "name": "Chou-fleur (mini)",
+        "quantity": 200,
+        "unit": "g",
+        "id": "1670"
+      },
+      {
+        "name": "Crème St-Père 35 %",
+        "quantity": 100,
+        "unit": "ml",
+        "id": "2358"
+      },
+      {
+        "name": "Aneth en pot",
+        "quantity": 1,
+        "unit": "cuil. à soupe",
+        "id": "50"
+      },
+      {
+        "name": "Huile d'olive extravierge biologique",
+        "quantity": 15,
+        "unit": "ml",
+        "id": "8811"
+      },
+      {
+        "name": "Sel de mer du Québec",
+        "quantity": 1,
+        "unit": "pincée",
+        "id": "18464"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Préchauffez votre four à 200°C (392°F).",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Découpez le chou-fleur en petits bouquets, mélangez-le avec de l'huile d'olive et une pincée de sel. Disposez-le sur une plaque de cuisson.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Faites rôtir le chou-fleur au four pendant environ 20 minutes, jusqu'à ce qu'il soit doré.",
+        "cooking_time": "20 minutes"
+      },
+      {
+        "step": 4,
+        "description": "Cuisez les gnocchis dans une grande casserole d'eau bouillante selon les instructions du paquet, environ 2-3 minutes après qu'ils flottent à la surface.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 5,
+        "description": "Dans une casserole, incorporez la crème et l'aneth à feu doux, mélangez bien pendant 2 minutes.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 6,
+        "description": "Servez les gnocchis dans une assiette, arrosez de crème à l'aneth et ajoutez le chou-fleur rôti par-dessus.",
+        "cooking_time": "1 minute"
+      }
+    ],
+    "cooking_time": "31 minutes",
+    "preparation_time": "5 minutes",
+    "serving_size": 2,
+    "difficulty": "Moyenne",
+    "cuisine": "Française",
+    "tags": ["gnocchis", "crémeux", "saisonnière", "végétarien"],
+    "notes": "Peut être servi avec une salade rafraîchissante."
+  },
+  {
+    "title": "Tarte aux Bleues Sauvages et Chocolat Noir",
+    "description": "Une tarte sucrée aux bleuets sauvages, rehaussée de chocolat noir fondant et d'une pointe de miel pour un dessert estival irrésistible.",
+    "ingredients": [
+      {
+        "name": "Tablette chocolat noir 72 % biologique",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Bleuets sauvages (congelés)",
+        "quantity": 250,
+        "unit": "g",
+        "id": "8413"
+      },
+      {
+        "name": "Sirop d'érable biologique",
+        "quantity": 50,
+        "unit": "ml",
+        "id": "14405"
+      },
+      {
+        "name": "Pâte feuilletée roulée",
+        "quantity": 1,
+        "unit": "unit",
+        "id": "10137"
+      },
+      {
+        "name": "Miel d'été brut biologique",
+        "quantity": 30,
+        "unit": "ml",
+        "id": "3424"
+      },
+      {
+        "name": "Beurre salé biologique",
+        "quantity": 50,
+        "unit": "g",
+        "id": "17952"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Préchauffez votre four à 180°C (356°F). Étalez la pâte feuilletée dans un moule à tarte. Piquez le fond avec une fourchette.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Faites fondre le chocolat noir avec le beurre au bain-marie, puis incorporez le miel et le sirop d'érable.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Ajoutez les bleuets à la préparation de chocolat, mélangez délicatement.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 4,
+        "description": "Versez la garniture dans la croûte préparée et enfournez pendant environ 30 minutes, jusqu'à ce que la garniture soit légèrement prise.",
+        "cooking_time": "30 minutes"
+      },
+      {
+        "step": 5,
+        "description": "Laissez refroidir avant de servir. Vous pouvez garnir de bleuets frais et d’un filet de miel si désiré.",
+        "cooking_time": "10 minutes"
+      }
+    ],
+    "cooking_time": "52 minutes",
+    "preparation_time": "15 minutes",
+    "serving_size": 8,
+    "difficulty": "Moyenne",
+    "cuisine": "Dessert",
+    "tags": ["dessert", "fruits", "chocolat", "saisonniers"],
+    "notes": "Servir avec une boule de crème glacée vanille pour plus de gourmandise."
+  },
+  {
+    "title": "Saucisses Miel-Ail Grillées avec Micropousses en Salade",
+    "description": "Des saucisses juteuses au miel et à l'ail, grillées à la perfection et présentées avec une salade croquante de micropousses, le tout assaisonné d'une vinaigrette légère.",
+    "ingredients": [
+      {
+        "name": "Saucisses miel et ail (porc, fraîches)",
+        "quantity": 4,
+        "unit": "unité"
+      },
+      {
+        "name": "Micropousses de brocoli",
+        "quantity": 30,
+        "unit": "g",
+        "id": "4675"
+      },
+      {
+        "name": "Micropousses de radis",
+        "quantity": 30,
+        "unit": "g",
+        "id": "4413"
+      },
+      {
+        "name": "Vinaigre de vin rouge",
+        "quantity": 20,
+        "unit": "ml",
+        "id": "1299"
+      },
+      {
+        "name": "Huile d'olive extravierge biologique",
+        "quantity": 30,
+        "unit": "ml",
+        "id": "8811"
+      },
+      {
+        "name": "Sel de mer du Québec",
+        "quantity": 1,
+        "unit": "pincée",
+        "id": "18464"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Préchauffez votre grill à feu moyen-élevé.",
+        "cooking_time": "5 minutes"
+      },
+      {
+        "step": 2,
+        "description": "Piquez légèrement les saucisses avec une fourchette pour éviter qu'elles n'éclatent lors de la cuisson.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 3,
+        "description": "Grillez les saucisses pendant environ 10-12 minutes, en les retournant régulièrement jusqu'à ce qu'elles soient bien dorées et cuites.",
+        "cooking_time": "12 minutes"
+      },
+      {
+        "step": 4,
+        "description": "Dans un saladier, mélangez les micropousses avec l'huile d'olive, le vinaigre et une pincée de sel. Remuez bien pour enrober les micropousses.",
+        "cooking_time": "2 minutes"
+      },
+      {
+        "step": 5,
+        "description": "Servez les saucisses sur un lit de salade de micropousses, recouvert d'un filet supplémentaire d'huile d'olive si désiré.",
+        "cooking_time": "1 minute"
+      }
+    ],
+    "cooking_time": "20 minutes",
+    "preparation_time": "10 minutes",
+    "serving_size": 4,
+    "difficulty": "Facile",
+    "cuisine": "Grillade",
+    "tags": ["viande", "facile", "salade", "barbecue"],
+    "notes": "Idéal pour un repas en extérieur ou un pique-nique."
+  }
+]
