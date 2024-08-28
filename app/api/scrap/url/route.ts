@@ -1,5 +1,9 @@
 import OpenAI from "openai";
 
+export const config = {
+  maxDuration: 60,
+};
+
 interface Product {
   p_id: string;
   gift: string;
@@ -100,10 +104,7 @@ export async function GET(request: Request) {
             "description",
             "ingredients",
             "instructions",
-            "cooking_time",
-            "preparation_time",
             "serving_size",
-            "difficulty",
             "cuisine",
             "tags",
             "notes",
