@@ -1,8 +1,6 @@
 import OpenAI from "openai";
 
-export const config = {
-  maxDuration: 60,
-};
+export const maxDuration = 60;
 
 interface Product {
   p_id: string;
