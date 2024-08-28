@@ -1,82 +1,83 @@
 [
   {
-    "title": "Bagel Gourmet au Végé-Pâté et Micropousses",
-    "description": "Un bagel moelleux, garni de vége-pâté traditionnel et agrémenté de micropousses croquantes, le tout rehaussé d'un mélange herbacé d'origan et de thym, parfait pour un brunch raffiné.",
+    "title": "Salade de Lentilles Colorées Germées et Micropousses de Chou Frisé",
+    "description": "Une salade fraîche et nutritive alliant lentilles colorées germées, micropousses de chou frisé, échalotes et une vinaigrette au vinaigre de vin rouge et miel biologique.",
     "ingredients": [
       {
-        "name": "Bagel tout garnis",
+        "name": "Lentilles colorées germées",
         "quantity": 1,
-        "unit": "unité"
+        "unit": "tasse",
+        "id": "915"
       },
       {
-        "name": "Végé-pâté traditionnel biologique",
-        "quantity": 50,
-        "unit": "g",
-        "id": "2012"
+        "name": "Micropousses de chou frisé",
+        "quantity": 1,
+        "unit": "tasse",
+        "id": "304"
       },
       {
-        "name": "Micropousses de roquette",
-        "quantity": 15,
-        "unit": "g",
-        "id": "301"
+        "name": "Échalotes françaises",
+        "quantity": 2,
+        "unit": "unités",
+        "id": "854"
+      },
+      {
+        "name": "Vinaigre de vin rouge",
+        "quantity": 3,
+        "unit": "cuillères à soupe",
+        "id": "1299"
+      },
+      {
+        "name": "Miel d'été biologique",
+        "quantity": 2,
+        "unit": "cuillères à café",
+        "id": "169"
       },
       {
         "name": "Origan en pot",
         "quantity": 1,
-        "unit": "cuil. à café",
+        "unit": "cuillère à café",
         "id": "43"
       },
       {
-        "name": "Thym en pot",
+        "name": "Sel",
         "quantity": 1,
-        "unit": "cuil. à café",
-        "id": "48"
-      },
-      {
-        "name": "Moutarde de Dijon et miel",
-        "quantity": 15,
-        "unit": "g",
-        "id": "447"
+        "unit": "pincée"
       }
     ],
     "instructions": [
       {
         "step": 1,
-        "description": "Faites griller le bagel tout garnis jusqu'à ce qu'il soit doré et croustillant.",
-        "cooking_time": "3 minutes"
+        "description": "Dans un grand bol, mélangez les lentilles colorées germées et les micropousses de chou frisé.",
+        "cooking_time": "5 min"
       },
       {
         "step": 2,
-        "description": "Tartinez chaque moitié de bagel avec le vége-pâté traditionnel.",
-        "cooking_time": "2 minutes"
+        "description": "Hachez finement les échalotes et ajoutez-les au mélange.",
+        "cooking_time": "2 min"
       },
       {
         "step": 3,
-        "description": "Ajoutez une couche généreuse de micropousses de roquette sur le vége-pâté.",
-        "cooking_time": "1 minute"
+        "description": "Dans un petit bol, préparez la vinaigrette en mélangeant le vinaigre de vin rouge, le miel d'été, l'origan et le sel.",
+        "cooking_time": "2 min"
       },
       {
         "step": 4,
-        "description": "Saupoudrez le mélange d'origan et de thym sur les micropousses.",
-        "cooking_time": "1 minute"
-      },
-      {
-        "step": 5,
-        "description": "Enfin, ajoutez une cuillère de moutarde de Dijon et miel sur le tout, puis refermez le bagel.",
-        "cooking_time": "1 minute"
+        "description": "Versez la vinaigrette sur la salade et mélangez délicatement pour combiner tous les ingrédients.",
+        "cooking_time": "2 min"
       }
     ],
-    "cooking_time": "8 minutes",
-    "preparation_time": "5 minutes",
-    "serving_size": 1,
-    "difficulty": "Facile",
-    "cuisine": "Contemporaine",
-    "tags": ["végétalien", "rapide", "brunch", "recette facile"],
-    "notes": "Accompagnez d'une boisson à base d'amandes ou d'une infusion pour un repas équilibré."
+    "cooking_time": "0 min",
+    "preparation_time": "11 min",
+    "serving_size": 2,
+    "difficulty": "facile",
+    "cuisine": "moderne",
+    "tags": ["végétarien", "salade", "sain", "rafraîchissant"],
+    "notes": "Peut être servi en entrée ou en plat principal léger."
   },
   {
-    "title": "Pâtes fraîches aux épinards et légumes croquants",
-    "description": "Des pâtes fraîches aux épinards, accompagnées d'une méli-mélo de légumes croquants marinés à l'aneth, parfait pour un repas léger et savoureux.",
+    "title": "Tagliatelles aux Épinards avec Sauce au Tofu Crèmeux et Échalotes",
+    "description": "Des tagliatelles fraîches aux épinards préparées avec une sauce crémeuse à base de tofu, échalotes, et assaisonnées d'origan et de thym.",
     "ingredients": [
       {
         "name": "Tagliatelles fraîches aux épinards",
@@ -85,92 +86,16 @@
         "id": "1431"
       },
       {
-        "name": "Carottes nantaises (petites)",
-        "quantity": 100,
-        "unit": "g",
-        "id": "3806"
-      },
-      {
-        "name": "Céleri (moyen)",
-        "quantity": 50,
-        "unit": "g",
-        "id": "5520"
-      },
-      {
-        "name": "Ciboulette",
-        "quantity": 5,
-        "unit": "g",
-        "id": "17942"
-      },
-      {
-        "name": "Aneth en pot",
-        "quantity": 1,
-        "unit": "cuil. à soupe",
-        "id": "50"
-      },
-      {
-        "name": "Vinaigre de vin rouge",
-        "quantity": 30,
-        "unit": "ml",
-        "id": "1299"
-      },
-      {
-        "name": "Huile d'olive extravierge biologique",
-        "quantity": 15,
-        "unit": "ml",
-        "id": "8811"
-      }
-    ],
-    "instructions": [
-      {
-        "step": 1,
-        "description": "Faites cuire les tagliatelles selon les instructions du paquet.",
-        "cooking_time": "3 minutes"
-      },
-      {
-        "step": 2,
-        "description": "Pendant ce temps, coupez les carottes et le céleri en fines lamelles et placez-les dans un bol.",
-        "cooking_time": "5 minutes"
-      },
-      {
-        "step": 3,
-        "description": "Ajoutez le vinaigre de vin rouge, l'huile d'olive et l'aneth aux légumes, puis mélangez bien.",
-        "cooking_time": "2 minutes"
-      },
-      {
-        "step": 4,
-        "description": "Une fois les pâtes cuites, égouttez-les et incorporez-les aux légumes marinés.",
-        "cooking_time": "2 minutes"
-      },
-      {
-        "step": 5,
-        "description": "Servez chaud, décoré de ciboulette ciselée.",
-        "cooking_time": "1 minute"
-      }
-    ],
-    "cooking_time": "8 minutes",
-    "preparation_time": "10 minutes",
-    "serving_size": 2,
-    "difficulty": "Facile",
-    "cuisine": "Italienne",
-    "tags": ["pâtes", "végétalien", "rapide", "sain"],
-    "notes": "Vous pouvez ajouter du parmesan pour un goût encore plus riche."
-  },
-  {
-    "title": "Gnocchis au Chou-Fleur Rôti et Crème à L'Aneth",
-    "description": "Des gnocchis moelleux accompagnés de chou-fleur rôti, le tout nappé d’une crème délicate à l’aneth et lait de coco pour une touche gourmande.",
-    "ingredients": [
-      {
-        "name": "Gnocchis (congelés)",
-        "quantity": 400,
-        "unit": "g",
-        "id": "3052"
-      },
-      {
-        "name": "Chou-fleur (mini)",
+        "name": "Tofu super crémeux biologique",
         "quantity": 200,
         "unit": "g",
-        "id": "1670"
+        "id": "1777"
+      },
+      {
+        "name": "Échalotes françaises",
+        "quantity": 2,
+        "unit": "unités",
+        "id": "854"
       },
       {
         "name": "Crème St-Père 35 %",
@@ -179,100 +104,218 @@
         "id": "2358"
       },
       {
-        "name": "Aneth en pot",
+        "name": "Origan en pot",
         "quantity": 1,
-        "unit": "cuil. à soupe",
-        "id": "50"
+        "unit": "cuillère à café",
+        "id": "43"
       },
       {
-        "name": "Huile d'olive extravierge biologique",
-        "quantity": 15,
-        "unit": "ml",
-        "id": "8811"
+        "name": "Thym en pot",
+        "quantity": 1,
+        "unit": "cuillère à café",
+        "id": "48"
       },
       {
-        "name": "Sel de mer du Québec",
+        "name": "Sel",
         "quantity": 1,
-        "unit": "pincée",
-        "id": "18464"
+        "unit": "pincée"
       }
     ],
     "instructions": [
       {
         "step": 1,
-        "description": "Préchauffez votre four à 200°C (392°F).",
-        "cooking_time": "5 minutes"
+        "description": "Dans une casserole d'eau bouillante salée, cuisez les tagliatelles aux épinards selon les instructions du paquet.",
+        "cooking_time": "7 min"
       },
       {
         "step": 2,
-        "description": "Découpez le chou-fleur en petits bouquets, mélangez-le avec de l'huile d'olive et une pincée de sel. Disposez-le sur une plaque de cuisson.",
-        "cooking_time": "5 minutes"
+        "description": "Pendant ce temps, dans une poêle, faites revenir les échalotes hachées avec un peu d'huile jusqu'à ce qu'elles soient translucides.",
+        "cooking_time": "3 min"
       },
       {
         "step": 3,
-        "description": "Faites rôtir le chou-fleur au four pendant environ 20 minutes, jusqu'à ce qu'il soit doré.",
-        "cooking_time": "20 minutes"
+        "description": "Ajoutez le tofu écrasé, la crème St-Père, l'origan et le thym dans la poêle avec les échalotes. Cuisez à feu doux jusqu'à ce que le mélange soit homogène.",
+        "cooking_time": "5 min"
       },
       {
         "step": 4,
-        "description": "Cuisez les gnocchis dans une grande casserole d'eau bouillante selon les instructions du paquet, environ 2-3 minutes après qu'ils flottent à la surface.",
-        "cooking_time": "5 minutes"
-      },
-      {
-        "step": 5,
-        "description": "Dans une casserole, incorporez la crème et l'aneth à feu doux, mélangez bien pendant 2 minutes.",
-        "cooking_time": "2 minutes"
-      },
-      {
-        "step": 6,
-        "description": "Servez les gnocchis dans une assiette, arrosez de crème à l'aneth et ajoutez le chou-fleur rôti par-dessus.",
-        "cooking_time": "1 minute"
+        "description": "Égouttez les tagliatelles et ajoutez-les à la sauce. Mélangez bien et servez chaud.",
+        "cooking_time": "2 min"
       }
     ],
-    "cooking_time": "31 minutes",
-    "preparation_time": "5 minutes",
+    "cooking_time": "0 min",
+    "preparation_time": "17 min",
     "serving_size": 2,
-    "difficulty": "Moyenne",
-    "cuisine": "Française",
-    "tags": ["gnocchis", "crémeux", "saisonnière", "végétarien"],
-    "notes": "Peut être servi avec une salade rafraîchissante."
+    "difficulty": "facile",
+    "cuisine": "italienne",
+    "tags": ["végétarien", "pâtes", "crémeux"],
+    "notes": "Idéal pour un repas réconfortant."
   },
   {
-    "title": "Tarte aux Bleues Sauvages et Chocolat Noir",
-    "description": "Une tarte sucrée aux bleuets sauvages, rehaussée de chocolat noir fondant et d'une pointe de miel pour un dessert estival irrésistible.",
+    "title": "Burger Végétalien au Tofu Fumé et Micropousses de Roquette",
+    "description": "Un burger savoureux à base de tofu fumé, garni de micropousses de roquette et d’une vinaigrette à la moutarde de Dijon et miel.",
     "ingredients": [
       {
-        "name": "Tablette chocolat noir 72 % biologique",
+        "name": "Tofu fumé",
         "quantity": 200,
         "unit": "g"
       },
       {
-        "name": "Bleuets sauvages (congelés)",
-        "quantity": 250,
-        "unit": "g",
-        "id": "8413"
+        "name": "Pains à burger (4)",
+        "quantity": 2,
+        "unit": "unités",
+        "id": "12746"
       },
       {
-        "name": "Sirop d'érable biologique",
+        "name": "Micropousses de roquette",
+        "quantity": 1,
+        "unit": "tasse",
+        "id": "301"
+      },
+      {
+        "name": "Moutarde de Dijon et miel biologique",
+        "quantity": 2,
+        "unit": "cuillères à soupe",
+        "id": "447"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 1,
+        "unit": "cuillère à soupe"
+      },
+      {
+        "name": "Sel",
+        "quantity": 1,
+        "unit": "pincée"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Faites chauffer un peu d'huile d'olive dans une poêle et faites-y dorer le tofu fumé coupé en tranches.",
+        "cooking_time": "5 min"
+      },
+      {
+        "step": 2,
+        "description": "Toastez légèrement les pains à burger dans la même poêle.",
+        "cooking_time": "2 min"
+      },
+      {
+        "step": 3,
+        "description": "Étalez la moutarde de Dijon et miel sur le pain et ajoutez le tofu doré et les micropousses de roquette.",
+        "cooking_time": "2 min"
+      },
+      {
+        "step": 4,
+        "description": "Refermez le burger avec l'autre moitié du pain et servez immédiatement.",
+        "cooking_time": "0 min"
+      }
+    ],
+    "cooking_time": "0 min",
+    "preparation_time": "9 min",
+    "serving_size": 2,
+    "difficulty": "facile",
+    "cuisine": "américaine",
+    "tags": ["végétalien", "burger", "rapide"],
+    "notes": "Un rétro burger délicieux et satisfaisant."
+  },
+  {
+    "title": "Gnocchis à la Patate Douce avec Sauce Miso et Champignons Portobello",
+    "description": "Un plat délicat de gnocchis à la patate douce, enrobés d'une sauce au miso et garnis de champignons portobello sautés.",
+    "ingredients": [
+      {
+        "name": "Gnocchis (congelés)",
+        "quantity": 500,
+        "unit": "g",
+        "id": "3052"
+      },
+      {
+        "name": "Champignons portobellos",
+        "quantity": 200,
+        "unit": "g",
+        "id": "1945"
+      },
+      {
+        "name": "Miso de soya et de riz biologique",
+        "quantity": 3,
+        "unit": "cuillères à soupe",
+        "id": "2640"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 2,
+        "unit": "cuillères à soupe"
+      },
+      {
+        "name": "Eau",
+        "quantity": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Sel",
+        "quantity": 1,
+        "unit": "pincée"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Dans une grande casserole, faites cuire les gnocchis selon les instructions du paquet, puis égouttez-les.",
+        "cooking_time": "5 min"
+      },
+      {
+        "step": 2,
+        "description": "Dans une poêle, chauffez l'huile d'olive et faites revenir les champignons portobello coupés jusqu'à ce qu'ils soient dorés.",
+        "cooking_time": "5 min"
+      },
+      {
+        "step": 3,
+        "description": "Ajoutez le miso dans la poêle avec un peu d'eau pour déglacer et créer une sauce crémeuse.",
+        "cooking_time": "2 min"
+      },
+      {
+        "step": 4,
+        "description": "Incorporez les gnocchis à la sauce et mélangez délicatement. Laissez cuire 2 minutes de plus pour bien les enrober.",
+        "cooking_time": "2 min"
+      }
+    ],
+    "cooking_time": "0 min",
+    "preparation_time": "14 min",
+    "serving_size": 3,
+    "difficulty": "facile",
+    "cuisine": "italienne",
+    "tags": ["végétarien", "pâtes", "gourmand"],
+    "notes": "Peut être agrémenté de fromage parmesan aux goûts."
+  },
+  {
+    "title": "Tartelette de Chocolat Noir 70% et Miel d'Été",
+    "description": "Une délicieuse tartelette de chocolat noir garnie d'une mousse légère au miel d'été, servie sur une croûte de biscuit émietté.",
+    "ingredients": [
+      {
+        "name": "Bâton de chocolat noir 70 % biologique",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Crème St-Père 35 %",
+        "quantity": 200,
+        "unit": "ml",
+        "id": "2358"
+      },
+      {
+        "name": "Miel d'été biologique",
         "quantity": 50,
         "unit": "ml",
-        "id": "14405"
+        "id": "169"
       },
       {
-        "name": "Pâte feuilletée roulée",
-        "quantity": 1,
-        "unit": "unit",
-        "id": "10137"
-      },
-      {
-        "name": "Miel d'été brut biologique",
-        "quantity": 30,
-        "unit": "ml",
-        "id": "3424"
+        "name": "Biscuits sablés",
+        "quantity": 150,
+        "unit": "g"
       },
       {
         "name": "Beurre salé biologique",
-        "quantity": 50,
+        "quantity": 75,
         "unit": "g",
         "id": "17952"
       }
@@ -280,111 +323,164 @@
     "instructions": [
       {
         "step": 1,
-        "description": "Préchauffez votre four à 180°C (356°F). Étalez la pâte feuilletée dans un moule à tarte. Piquez le fond avec une fourchette.",
-        "cooking_time": "5 minutes"
+        "description": "Émiettez les biscuits sablés et mélangez-les avec le beurre fondu. Répartissez le mélange dans le fond de moules à tartelette pour former une croûte.",
+        "cooking_time": "10 min"
       },
       {
         "step": 2,
-        "description": "Faites fondre le chocolat noir avec le beurre au bain-marie, puis incorporez le miel et le sirop d'érable.",
-        "cooking_time": "5 minutes"
+        "description": "Faites fondre le chocolat noir au bain-marie et laissez-le tiédir.",
+        "cooking_time": "5 min"
       },
       {
         "step": 3,
-        "description": "Ajoutez les bleuets à la préparation de chocolat, mélangez délicatement.",
-        "cooking_time": "2 minutes"
+        "description": "Dans un bol, battez la crème St-Père jusqu'à obtenir des pics souples, puis incorporez-y le miel et le chocolat fondu.",
+        "cooking_time": "5 min"
       },
       {
         "step": 4,
-        "description": "Versez la garniture dans la croûte préparée et enfournez pendant environ 30 minutes, jusqu'à ce que la garniture soit légèrement prise.",
-        "cooking_time": "30 minutes"
-      },
-      {
-        "step": 5,
-        "description": "Laissez refroidir avant de servir. Vous pouvez garnir de bleuets frais et d’un filet de miel si désiré.",
-        "cooking_time": "10 minutes"
+        "description": "Versez la préparation au chocolat dans les croûtes et placez au réfrigérateur pendant au moins 2 heures pour prendre.",
+        "cooking_time": "120 min"
       }
     ],
-    "cooking_time": "52 minutes",
-    "preparation_time": "15 minutes",
-    "serving_size": 8,
-    "difficulty": "Moyenne",
-    "cuisine": "Dessert",
-    "tags": ["dessert", "fruits", "chocolat", "saisonniers"],
-    "notes": "Servir avec une boule de crème glacée vanille pour plus de gourmandise."
+    "cooking_time": "0 min",
+    "preparation_time": "20 min",
+    "serving_size": 6,
+    "difficulty": "modéré",
+    "cuisine": "française",
+    "tags": ["dessert", "chocolat", "élaboré"],
+    "notes": "Pour un mariage parfait, servez avec des baies fraîches."
   },
   {
-    "title": "Saucisses Miel-Ail Grillées avec Micropousses en Salade",
-    "description": "Des saucisses juteuses au miel et à l'ail, grillées à la perfection et présentées avec une salade croquante de micropousses, le tout assaisonné d'une vinaigrette légère.",
+    "title": "Filet de Truite Arc-en-Ciel Fumé au Miel et Origan sur Lit de Laitue Iceberg",
+    "description": "Un plat élégant de truite arc-en-ciel fumée au miel et arrosée d'une vinaigrette à l'origan, servie sur un lit de laitue iceberg.",
     "ingredients": [
       {
-        "name": "Saucisses miel et ail (porc, fraîches)",
-        "quantity": 4,
-        "unit": "unité"
+        "name": "Filet de truite arc-en-ciel fumée à froid",
+        "quantity": 200,
+        "unit": "g"
       },
       {
-        "name": "Micropousses de brocoli",
-        "quantity": 30,
-        "unit": "g",
-        "id": "4675"
+        "name": "Laitue Iceberg",
+        "quantity": 1,
+        "unit": "tête"
       },
       {
-        "name": "Micropousses de radis",
-        "quantity": 30,
-        "unit": "g",
-        "id": "4413"
-      },
-      {
-        "name": "Vinaigre de vin rouge",
+        "name": "Miel d'été biologique",
         "quantity": 20,
         "unit": "ml",
-        "id": "1299"
+        "id": "169"
       },
       {
-        "name": "Huile d'olive extravierge biologique",
-        "quantity": 30,
-        "unit": "ml",
-        "id": "8811"
-      },
-      {
-        "name": "Sel de mer du Québec",
+        "name": "Origan en pot",
         "quantity": 1,
-        "unit": "pincée",
-        "id": "18464"
+        "unit": "cuillère à café",
+        "id": "43"
+      },
+      {
+        "name": "Vinaigre balsamique de Modène",
+        "quantity": 1,
+        "unit": "cuillère à soupe",
+        "id": "15903"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 2,
+        "unit": "cuillères à soupe"
       }
     ],
     "instructions": [
       {
         "step": 1,
-        "description": "Préchauffez votre grill à feu moyen-élevé.",
-        "cooking_time": "5 minutes"
+        "description": "Déchirez les feuilles de laitue iceberg et disposez-les sur chaque assiette.",
+        "cooking_time": "3 min"
       },
       {
         "step": 2,
-        "description": "Piquez légèrement les saucisses avec une fourchette pour éviter qu'elles n'éclatent lors de la cuisson.",
-        "cooking_time": "2 minutes"
+        "description": "Dans un petit bol, mélangez le miel, l'origan, le vinaigre balsamique et l'huile d'olive pour réaliser la vinaigrette.",
+        "cooking_time": "2 min"
       },
       {
         "step": 3,
-        "description": "Grillez les saucisses pendant environ 10-12 minutes, en les retournant régulièrement jusqu'à ce qu'elles soient bien dorées et cuites.",
-        "cooking_time": "12 minutes"
+        "description": "Placez les tranches de truite fumée sur le lit de laitue et arrosez de vinaigrette.",
+        "cooking_time": "2 min"
       },
       {
         "step": 4,
-        "description": "Dans un saladier, mélangez les micropousses avec l'huile d'olive, le vinaigre et une pincée de sel. Remuez bien pour enrober les micropousses.",
-        "cooking_time": "2 minutes"
-      },
-      {
-        "step": 5,
-        "description": "Servez les saucisses sur un lit de salade de micropousses, recouvert d'un filet supplémentaire d'huile d'olive si désiré.",
-        "cooking_time": "1 minute"
+        "description": "Servez immédiatement en entrée ou en plat léger.",
+        "cooking_time": "0 min"
       }
     ],
-    "cooking_time": "20 minutes",
-    "preparation_time": "10 minutes",
-    "serving_size": 4,
-    "difficulty": "Facile",
-    "cuisine": "Grillade",
-    "tags": ["viande", "facile", "salade", "barbecue"],
-    "notes": "Idéal pour un repas en extérieur ou un pique-nique."
+    "cooking_time": "0 min",
+    "preparation_time": "7 min",
+    "serving_size": 2,
+    "difficulty": "facile",
+    "cuisine": "française",
+    "tags": ["poisson", "salade", "léger"],
+    "notes": "Accompagné de pain de seigle pour réaliser un mélange rafraîchissant."
+  },
+  {
+    "title": "Brochettes de Saumon Sockeye aux Herbes de Provence",
+    "description": "Des brochettes de saumon sockeye marinées aux herbes de Provence, grillées à la perfection et servies avec une vinaigrette citronnée.",
+    "ingredients": [
+      {
+        "name": "Saumon sockeye sur planche de cèdre",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Herbes de Provence",
+        "quantity": 1,
+        "unit": "cuillère à soupe"
+      },
+      {
+        "name": "Jus de citron",
+        "quantity": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Huile d'olive extravierge",
+        "quantity": 2,
+        "unit": "cuillères à soupe"
+      },
+      {
+        "name": "Sel",
+        "quantity": 1,
+        "unit": "pincée"
+      },
+      {
+        "name": "Poivre noir",
+        "quantity": 1,
+        "unit": "pincée"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "description": "Couper le saumon en cubes et les mariner avec les herbes, le jus de citron, l'huile d'olive, le sel et le poivre pendant 30 minutes.",
+        "cooking_time": "30 min"
+      },
+      {
+        "step": 2,
+        "description": "Préchauffez un gril à feu moyen-haut et embrochez les morceaux de saumon sur des brochettes.",
+        "cooking_time": "5 min"
+      },
+      {
+        "step": 3,
+        "description": "Grillez les brochettes pendant 8 à 10 minutes, ou jusqu'à ce que le saumon soit cuit à votre goût.",
+        "cooking_time": "10 min"
+      },
+      {
+        "step": 4,
+        "description": "Servez chaud avec une salade de légumes croquants ou du riz frais.",
+        "cooking_time": "0 min"
+      }
+    ],
+    "cooking_time": "10 min",
+    "preparation_time": "35 min",
+    "serving_size": 2,
+    "difficulty": "facile",
+    "cuisine": "canadienne",
+    "tags": ["poisson", "grillé", "marinade"],
+    "notes": "Délicieux avec une sauce au yaourt à la menthe."
   }
 ]

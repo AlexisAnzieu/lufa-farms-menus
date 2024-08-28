@@ -1,4 +1,4 @@
-import data from "./data_michelin.json";
+import data from "./data.json";
 
 interface Ingredient {
   id?: string;
