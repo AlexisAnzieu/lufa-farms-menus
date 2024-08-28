@@ -154,17 +154,8 @@ export async function GET(request: Request) {
                 },
               },
             },
-            cooking_time: {
-              type: "string",
-            },
-            preparation_time: {
-              type: "string",
-            },
             serving_size: {
               type: "number",
-            },
-            difficulty: {
-              type: "string",
             },
             cuisine: {
               type: "string",
@@ -196,7 +187,7 @@ export async function GET(request: Request) {
       },
       {
         role: "user",
-        content: `Suggère exactement 5 délicieuses recettes pour vegetarien et 3 recettes à base de poisson à partir de ces ingrédients là: ${productNames}. Donne leur un nom de plat élaboré digne des grands restaurants.`,
+        content: `Suggère exactement 5 délicieuses recettes de plat pour vegetarien et exactement 3 recettes de plat à base de poisson. Ces recettes doivent exclusivement être composée à partir de ces ingrédients là: ${productNames}. Donne leur un nom de plat élaboré digne des grands restaurants.`,
       },
     ],
     model: "gpt-4o-mini",
