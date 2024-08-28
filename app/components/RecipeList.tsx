@@ -1,6 +1,32 @@
 import data from "./data_michelin.json";
 
-const RecipeCard = ({ recipe }) => (
+interface Ingredient {
+  id?: string;
+  name: string;
+  quantity: number;
+  unit: string;
+}
+
+interface Instruction {
+  description: string;
+  cooking_time: string;
+}
+
+interface Recipe {
+  title: string;
+  description: string;
+  ingredients: Ingredient[];
+  instructions: Instruction[];
+  cooking_time: string;
+  preparation_time: string;
+  serving_size: number;
+  difficulty: string;
+  cuisine: string;
+  tags: string[];
+  notes: string;
+}
+
+const RecipeCard = ({ recipe }: { recipe: Recipe }) => (
   <div className="max-w-sm rounded overflow-hidden shadow-lg m-4">
     <div className="px-6 py-4">
       <div className="font-bold text-xl mb-2">{recipe.title}</div>
